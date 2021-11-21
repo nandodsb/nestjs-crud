@@ -16,7 +16,6 @@
     "noImplicitAny": false,
     "strictBindCallApply": false,
     "forceConsistentCasingInFileNames": false,
-    "noFallthroughCasesInSwitch": false,
-    "typeRoots": ["./global.d.ts", "./node_modules/@types"]
+    "noFallthroughCasesInSwitch": false
   }
 }
